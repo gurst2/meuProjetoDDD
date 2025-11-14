@@ -1,0 +1,5 @@
+C:\Users\Gustavo Gonçalves\Documents\projecs\MeuProjetoDDD\MeuProjetoDDD.Domain\obj\Debug\net9.0\MeuProjetoDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Gonçalves\Documents\projecs\MeuProjetoDDD\MeuProjetoDDD.Domain\obj\Debug\net9.0\MeuProjetoDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\Gustavo Gonçalves\Documents\projecs\MeuProjetoDDD\MeuProjetoDDD.Domain\obj\Debug\net9.0\MeuProjetoDDD.Domain.AssemblyInfo.cs
+C:\Users\Gustavo Gonçalves\Documents\projecs\MeuProjetoDDD\MeuProjetoDDD.Domain\obj\Debug\net9.0\MeuProjetoDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Gonçalves\Documents\projecs\MeuProjetoDDD\MeuProjetoDDD.Domain\obj\Debug\net9.0\MeuProjetoDDD.Domain.sourcelink.json

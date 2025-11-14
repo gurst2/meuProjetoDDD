@@ -1,4 +1,6 @@
-namespace MeuProjetoDDD.Domain.Repositories
+using MeuProjetoDDD.Domain.Entities;
+
+namespace MeuProjetoDDD.Domain.Repositories;
 
 public interface IProdutoRepository
 {

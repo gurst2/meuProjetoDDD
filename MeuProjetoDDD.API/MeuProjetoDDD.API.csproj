@@ -2,8 +2,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MeuProjetoDDD.Application\MeuProjetoDDD.Application.csproj" />
-    <ProjectReference Include="MeuProjetoDDD.API.csproj" />
-    <ProjectReference Include="..\MeuProjetoDDD.Infrastructure\MeuProjetoDDD.Infrastructure.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
